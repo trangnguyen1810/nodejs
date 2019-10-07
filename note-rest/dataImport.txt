@@ -1,0 +1,4 @@
+Go to the page: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
+    a. Create database directory.
+	b. Start your MongoDB database: "C:\Program Files\MongoDB\Server\4.2\bin\mongod.exe" --dbpath="c:\data\db"
+	c. Connect to MongoDB: "C:\Program Files\MongoDB\Server\4.2\bin\mongo.exe"
