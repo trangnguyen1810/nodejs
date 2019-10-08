@@ -2,7 +2,7 @@
 1. Install some package
 	npm i express
 	npm i nodemon
-	
+
 2. Install mongodb: https://www.mongodb.com/download-center/community
 https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
 
@@ -12,3 +12,9 @@ Insert data to mongodb: https://docs.mongodb.com/manual/tutorial/install-mongodb
 	c. Connect to MongoDB: "C:\Program Files\MongoDB\Server\4.2\bin\mongo.exe"
 
 - Install mongoose: npm install mongoose
+
+3. Unit testing
+	- Install mocha, should, sinon:
+				npm i mocha should sinon -D
+	- Install super test:
+				npm i supertest -D
